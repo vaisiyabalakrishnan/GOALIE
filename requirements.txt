@@ -1,0 +1,3 @@
+PyYAML
+openai
+alfworld[full]
